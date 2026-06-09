@@ -10,6 +10,8 @@
   - [Praciting OOP concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
  - <b> The Blue: RPG game created using Java</b>
    - [Group project in University](https://github.com/GabrielKalelRosaMoura/RPG-Java)
+- <b> MoneyX-Ray: AI-powered bank statement analysis</b>
+  - [Hackathon project](https://github.com/GabrielKalelRosaMoura/moneyXray)
 
 <h2>📄 Certifications:</h2>
  - <b> ISC2 CC (Certified in CyberSecurity)</b>
