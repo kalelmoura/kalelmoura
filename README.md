@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋 I'm Gabriel Moura</h1>
 
+<p align="center">
+  Building AI-powered tools, web apps, and practical software projects.
+</p>
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b> ScreenMatch: simple simulation of a streaming platform using Java</b>
@@ -8,6 +12,16 @@
    - [Group project in University](https://github.com/GabrielKalelRosaMoura/RPG-Java)
 - <b> MoneyX-Ray: AI-powered bank statement analysis</b>
   - [Hackathon project](https://github.com/GabrielKalelRosaMoura/moneyXray)
+ 
+
+## Tech
+
+- Python
+- Java
+- JavaScript
+- HTML & CSS
+- Flask
+- Git & GitHub
 
 ## Connect with me
 
