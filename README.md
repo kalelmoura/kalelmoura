@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Gabriel Moura </h1>
+<h1 align="center">Hi 👋 I'm Gabriel Moura</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -9,12 +9,15 @@
 - <b> MoneyX-Ray: AI-powered bank statement analysis</b>
   - [Hackathon project](https://github.com/GabrielKalelRosaMoura/moneyXray)
 
-<h2> 🤳 Connect with me:</h2>
+## Connect with me
 
-[<img align="left" alt="Gabriel Kalel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gabriel Kalel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p>
+  <a href="https://linkedin.com/in/gabrielkalelmoura">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Moura-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<br />
-
-[linkedin]: https://linkedin.com/in/gabrielkalelmoura
-[instagram]: https://www.instagram.com/gabrielrosamoura
+<p>
+  <a href="https://www.instagram.com/gabrielrosamoura">
+    <img src="https://img.shields.io/badge/Instagram-gabrielrosamoura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
