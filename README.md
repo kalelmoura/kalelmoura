@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel Moura! </h1>
+<h1>                                   Hi 👋 I'm Gabriel Moura </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
