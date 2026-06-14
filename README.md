@@ -21,3 +21,10 @@
   <a href="https://www.instagram.com/gabrielrosamoura">
     <img src="https://img.shields.io/badge/Instagram-gabrielrosamoura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+<p>
+  <a href="mailto:gabrielkalelmoura@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabrielkalelmoura%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
