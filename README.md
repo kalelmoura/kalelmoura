@@ -1,10 +1,6 @@
 <h1>Hi, I'm Gabriel Moura! </h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/GabrielKalelRosaMoura/ActiveDirectoryLab)
-
-<h2> Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b> ScreenMatch: simple simulation of a streaming platform using Java</b>
   - [Praciting OOP concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
