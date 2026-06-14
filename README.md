@@ -14,7 +14,7 @@
   - [Hackathon project](https://github.com/GabrielKalelRosaMoura/moneyXray)
  
 
-## Tech
+## TechStack
 
 - Python
 - Java
