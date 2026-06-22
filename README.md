@@ -7,7 +7,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Muscle Coach: AI-powered fitness coaching app</b>
-   - [Solo project](https://github.com/KalelMoura/Money-Coach)
+   - [Private Repository] 
 - <b> MoneyX-Ray: AI-powered bank statement analysis</b>
   - [Hackathon project](https://github.com/KalelMoura/moneyXray)
  - <b> The Blue: RPG game created using Java</b>
