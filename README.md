@@ -6,21 +6,21 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b> ScreenMatch: simple simulation of a streaming platform using Java</b>
-  - [Praciting OOP concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
- - <b> The Blue: RPG game created using Java</b>
-   - [Group project in University](https://github.com/GabrielKalelRosaMoura/RPG-Java)
+- <b> Muscle Coach: AI-powered fitness coaching app</b>
+   - [Solo project](https://github.com/KalelMoura/Money-Coach)
 - <b> MoneyX-Ray: AI-powered bank statement analysis</b>
-  - [Hackathon project](https://github.com/GabrielKalelRosaMoura/moneyXray)
- 
+  - [Hackathon project](https://github.com/KalelMoura/moneyXray)
+ - <b> The Blue: RPG game created using Java</b>
+   - [Group project in University](https://github.com/KalelMoura/RPG-Java)
 
 ## TechStack
 
 - Python
+- Flask
+- FastAPI
 - Java
 - JavaScript
 - HTML & CSS
-- Flask
 - Git & GitHub
 
 ## Connect with me
