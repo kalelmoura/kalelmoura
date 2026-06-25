@@ -5,12 +5,13 @@
 </p>
 
 <h2>👨‍💻 Projects:</h2>
-- <b>Muscle Coach: AI-powered fitness coaching app</b>
-   - Private Repo
-- <b>MoneyX-Ray: AI-powered bank statement analysis</b>
+
+- **Muscle Coach: AI-powered fitness coaching app**
+  - Private Repo
+- **MoneyX-Ray: AI-powered bank statement analysis**
   - [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
-- <b>The Blue: RPG game created using Java</b>
-   - [Group project in University](https://github.com/KalelMoura/RPG-Java)
+- **The Blue: RPG game created using Java**
+  - [Group project in University](https://github.com/KalelMoura/RPG-Java)
    
 ## TechStack
 
