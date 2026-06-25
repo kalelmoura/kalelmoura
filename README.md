@@ -11,7 +11,7 @@
 - **MoneyX-Ray: AI-powered bank statement analysis**
   - [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
 - **The Blue: RPG game created using Java**
-  - [Group project in University](https://github.com/KalelMoura/RPG-Java)
+  - [University Group Project](https://github.com/KalelMoura/RPG-Java)
    
 ## TechStack
 
