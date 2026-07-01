@@ -16,10 +16,11 @@
 ## TechStack
 
 - Python
-- Flask
 - FastAPI
-- Java
+- TypeScript
 - JavaScript
+- Next.js
+- Java
 - HTML & CSS
 - Git & GitHub
 
