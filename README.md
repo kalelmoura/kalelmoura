@@ -30,13 +30,6 @@ Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=g
 <h2>🌐 Connect with me</h2>
 
 <p>
-  <a href="https://linkedin.com/in/gabrielkalelmoura">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Moura-grey?style=flat&labelColor=blue&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="mailto:gabrielkalelmoura@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrielkalelmoura%40gmail.com-grey?style=flat&labelColor=red&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/gabrielkalelmoura"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielkalelmoura@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
