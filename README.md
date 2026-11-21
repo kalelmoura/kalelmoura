@@ -1,23 +1,36 @@
-### Gabriel Kalel Rosa Moura
+<h1 align="center">Hi 👋 I'm Gabriel Moura</h1>
 
-Growth Engineer on the founding team at [Suna Health](https://suna.health), a London startup building a gut health wellness wearable.
+<p align="center">
+  Building AI-powered tools, web apps, and practical software.
+</p>
 
-At Suna I:
+<h2>💫 About Me:</h2>
 
-- build the Suna app for iOS and Android with Kotlin Multiplatform and Compose Multiplatform, turning Figma designs into working screens
-- created and maintain the app's design language system and component library, with versioned releases that keep both platforms on one set of type, buttons and components
-- look after the internal tools the team uses to grow, like our social media post planner and a motion graphics tool for marketing videos
+I'm a software engineer interested in real software, machine learning and AI engineering.
 
-The Suna code is private, so most of my recent work doesn't show up here.
+I'm also a content creator, sharing my coding passion, journey and any advice: [Instagram](https://www.instagram.com/gabrielrosamoura)
 
-Before Suna, I built software for small businesses and helped Phonext grow its page to 10,000+ followers through organic content.
+<h2>👨‍💻 Projects:</h2>
 
-**Stack**
+* **In Family: Stock and billing management system for a small retail business**
+  * [Website](https://infamily.store) · [Code](https://github.com/KalelMoura/infamily)
+* **MoneyX-Ray: AI-powered bank statement analysis**
+  * [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
+* **Mind Muscle: Fitness social media and AI-powered coaching app**
+  * Private Repo
 
-- Mobile: Kotlin Multiplatform, Compose Multiplatform, SwiftUI, React Native, Expo
-- Languages: Kotlin, Swift, TypeScript, Python, SQL
-- Web and backend: Next.js, React, FastAPI, Supabase, PostgreSQL
-- Design: Figma, design systems
-- Tools: Git, GitHub, Claude API
 
-[Website](https://gabrielkalel.com) · [Email](mailto:gabrielkalelmoura@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gabrielkalelmoura)
+<h2>💻 Tech Stack:</h2>
+
+Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Frameworks: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<h2>🌐 Connect with me</h2>
+
+<p>
+  <a href="https://linkedin.com/in/gabrielkalelmoura"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielkalelmoura@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
